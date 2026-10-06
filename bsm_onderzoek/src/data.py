@@ -73,6 +73,3 @@ class DataLoader():
         if v != None:
             out_values.append(v)
             out_keys.append(last_key)
-
-
-

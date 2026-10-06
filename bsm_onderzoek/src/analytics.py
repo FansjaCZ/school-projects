@@ -35,7 +35,6 @@ for sport in all_sports:
         media_hours.append(media)
         media_labels.append(sport)
 
-
 fig, axs = plt.subplots(1,3)
 axs[0].set_title("Totaal")
 axs[0].pie(x=total_hours, labels=total_labels)

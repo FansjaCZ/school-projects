@@ -1,7 +1,7 @@
 {
     "p1" : {
-        "gender" : "m",
-        "age" : 67,
+        "gender" : "f",
+        "age" : 20,
         "sports" : {
             "participation" : {
                 "hockey" : {
