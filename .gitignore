@@ -1,2 +1,4 @@
-data
-src/__pycache__
+bsm_onderzoek/data/main.json
+bsm_onderzoek/src/__pycache__
+
+po_energieverlies/src/__pycache__

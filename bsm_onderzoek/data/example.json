@@ -1,0 +1,20 @@
+{
+    "p1" : {
+        "gender" : "m",
+        "age" : 67,
+        "sports" : {
+            "participation" : {
+                "hockey" : {
+                    "hours" : 2,
+                    "reason" : "health"
+                }
+            },
+            "media" : {
+                "olympics" : {
+                    "hours" : 0.1,
+                    "reason" : "family"
+                }
+            }
+        }
+    }
+}

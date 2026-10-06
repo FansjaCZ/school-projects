@@ -2,7 +2,7 @@ from matplotlib import pyplot as plt
 from data import DataLoader, DataPath
 from pathlib import Path
 
-data_loader = DataLoader(Path(__file__).parent.parent.parent / "data" / "bsm_onderzoek.json")
+data_loader = DataLoader(Path(__file__).parent.parent / "data" / "main.json")
 
 # Grafieken:
 # twee stack diagrammen per reden, geldig en ongeldig. Leeftijd?
