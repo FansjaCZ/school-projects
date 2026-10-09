@@ -1,4 +1,7 @@
-bsm_onderzoek/data/main.json
-bsm_onderzoek/src/__pycache__
+bsm_onderzoek/data/*
+!bsm_onderzoek/data/example.json
+!bsm_onderzoek/data/graph_all.png
 
-po_energieverlies/src/__pycache__
+***/__pycache__
+**/__pycache__
+*/__pycache__

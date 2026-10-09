@@ -37,7 +37,7 @@ class DataLoader():
         self._iter(path_start.get(), self.data, out_values, out_keys)
         r = []
         for i, _ in enumerate(out_values):
-            if fn(out_values[i], out_keys[i]) == True:
+            if fn(out_values[i], out_keys[i]) == True and not out_keys[i] in r:
                 r.append(out_keys[i])
         return tuple(r)
 
